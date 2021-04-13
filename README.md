@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ablaikhan-s
+- 👀 I’m interested in java programming
+- 🌱 I’m currently learning JavaScript, Java and SQL
+- 📫 My mail is ablaikhansaparov@gmail.com
